@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        The Beatles 
+    </title>
+</head>
+<body>
+    <h1> 
+        The Beatles 
+    </h1>
+    <img src="/assats.html/the beatles/thebeatles4.jpeg" width="400" alt="thebeatles4">
+    <h2>
+        Biography 
+    </h2>
+    <p>
+        The Beatles were an English rock band, formed in Liverpool in 1960, that comprised 
+        John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as 
+        the most influential band of all time and were integral to the development of 1960s 
+        counterculture and popular music's recognition as an art form.
+    </p>
+    <h2> 
+        Album
+    </h2>
+    <a href="/assats.html/the beatles/20GreatestHitsalbumcover.jpeg"> </a>
+    <a href="https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=54fa8b2700db4134"> </a>
+</body>
+</html>
+
