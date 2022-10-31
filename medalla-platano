@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Medalla Pantano - Imágenes de animales
+    </title>
+</head>
+<body>
+    <h1>
+        Lista de especies.
+    </h1>
+    <ul>
+        <li>
+            <b>
+                Perros
+            </b>
+        </li>
+        <ul>
+            <li> 
+                Rottweiler 
+            </li>
+            <img src="/assats.html/perros /rottweiler.webp" width="200" alt="Rottwiler">
+            <li>
+                Dalmata 
+            </li>
+            <img src="/assats.html/perros /Dálmata.jpeg" width="200" alt="Dalmata">
+            <li>
+                Terranova
+            </li>
+            <img src="/assats.html/perros /terranova.jpeg" width="200" alt="Terranova">
+        </ul>
+<br>
+<br>
+    <li>
+        <b>
+            Gatos
+        </b>
+    </li>
+<ul>
+    <li>
+        Gato egipcio
+    </li>
+    <img src="/assats.html/gatos/gatoegipio.webp" width="200" alt="Gato-Egipcio">
+    <li>
+        Gato Persa
+    </li>
+    <img src="/assats.html/gatos/gatopersa.webp" width="200" alt="Gato-Persa">
+    <li>
+        Gato Ruso 
+    </li>
+    <img src="/assats.html/gatos/azul-ruso.jpeg" width="200" alt="Gato-Ruso">
+</ul>
+<br>
+    <li>
+        <b>
+            Aves
+        </b>
+    </li>
+<ul>
+    <li>
+        Halcon Peregrino
+    </li>
+    <img src="/assats.html/aves/halcon-peregrino2.jpeg" width="200" alt="halcon-peregrino2">
+    <li>
+        Buho 
+    </li>
+    <img src="/assats.html/aves/buho.jpeg" width="200" alt="Buho">
+    <li>
+        Aguila Real
+    </li>
+    <img src="/assats.html/aves/07_AGUILA1.jpeg" width="200" alt="Aguila-Real">
+</ul> 
+</body> 
+</html>
