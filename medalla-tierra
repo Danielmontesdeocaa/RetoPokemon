@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Medalla Tierra - Pokemon
+    </title>
+</head>
+<body>
+    <h1>
+        Pikachu
+    </h1>
+    <img src="/assats.html/pokemons/Pikachu_XY.webp" width="200" alt="Pikachu">
+
+    <h2>
+        Descripción
+    </h2>
+    <p align="justify">
+        Es un Pokémon de tipo eléctrico introducido en la primera generación. 
+        Es el Pokémon más conocido de la historia, mayormente por ser el acompañante del 
+        protagonista del anime, Ash Ketchum y la mascota representante de la franquicia 
+        Pokémon.
+    </p>
+
+    <p align="justify">
+        Pikachu almacena una gran cantidad de electricidad en las bolsas que 
+        tiene en sus mejillas. Estas parecen cargarse eléctricamente durante la noche mientras 
+        duerme. Las mejillas de Pikachu también pueden ser recargadas mediante una descarga 
+        eléctrica dada por otro Pikachu o a veces suelta unas pequeñas descargas cuando se 
+        acaba de despertar.
+    </p>
+
+    <p align="justify">
+        Pikachu es un pequeño roedor cuya morfología se encuentra basada en un 
+        roedor. Aunque su nombre y su categoría hagan alusión a un ratón, según su diseñadora, 
+        sus mejillas están basadas en una ardilla. Su cuerpo es de color amarillo con dos rayas
+        marrones en su espalda y en la base de la cola. La punta de sus orejas de color negro,
+        y presenta un gran círculo rojo en cada una de sus mejillas. Tiene una cola con forma 
+        de rayo si es macho y en forma de corazón si es hembra.
+    </p>
+
+    <h3>
+        Poderes de Pikachu
+    </h3>
+    <ul>
+        <li>
+            <em>
+                Puño trueno
+            </em>
+        </li>
+        <li>
+            <em>
+                Chispa
+            </em>
+        </li>
+        <li>
+            <em>
+                Ataque eléctrico
+            </em>
+        </li>
+    </ul>
+    <h4>
+        Enlaces de consulta
+    </h4>
+    <p> <a href="https://pokemon.fandom.com/es/wiki/Pikachu" target="_blank"> Pikachu </a> </p>
+<br>
+<br>
+<br>
+    <h1> 
+        Miutu 
+    </h1>
+    <img src="/assats.html/pokemons/miutu.png" width="200" alt="Miutu">
+
+    <h2> 
+        Descripción
+    </h2>
+    <p align="justify">
+        es una criatura ficticia de la franquicia Pokémon. Se trata de un Pokémon Legendario 
+        tipo psíquico, que aparece por primera vez en Pokémon Red y Blue, donde además es 
+        capturable por el jugador. Es el Pokémon número ciento cincuenta del Pokédex nacional
+    </p>
+    <p align="justify">
+        Mewtwo es un Pokémon legendario y artificial de tipo psíquico introducido en la primera
+        generación. Fue creado por el doctor Fuji a partir del ADN de Mew.
+    </p>
+    <h3>
+        Poderes de Miutu
+    </h3>
+    <ul>
+        <li>
+            <em> 
+                poder psíquico
+            </em>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <em> 
+                fuerza de agarre de una tonelada
+            </em>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <em> 
+                puede correr 100 m en dos segundos
+            </em>
+        </li>
+    </ul>
+    <h4>
+        Enlaces de consulta
+    </h4>
+    <p> <a href="https://www.pokemon.com/el/pokedex/mewtwo" target="_blank"> Miutu </a> </p>
+<br>
+<br>
+<br>
+<h1> 
+    Snorlax
+</h1>
+<img src="/assats.html/pokemons/snorlax.webp" width="200" alt="Miutu">
+
+<h2> 
+    Descripción
+</h2>
+<p align="justify">
+    No se encuentra satisfecho hasta haber ingerido 400 kg de comida cada día. 
+    Cuando acaba de comer, se queda dormido.
+</p>
+<p align="justify">
+    Snorlax come muchísimos kilos de comida al día, lo único que hará será echarse 
+    a dormir hasta que vuelva a despertarse por el hambre. Cuando este Pokémon duerme, 
+    si por alguna razón lo despiertas, se enfadará mucho y te atacará ferozmente, aunque 
+    después de perseguirte se volverá a dormir.
+</p>
+<p align="justify">
+    Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, 
+    tal como especifica la licencia.
+    Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución
+    
+<h3>
+    Poderes de Snorlax
+</h3>
+<ul>
+    <li>
+        <em> 
+            come de todo, no importa si está podrido o mohoso
+        </em>
+    </li>
+</ul>
+<ul>
+    <li>
+        <em> 
+            tiene la habilidad inmunidad que impide el envenenamiento
+        </em>
+    </li>
+</ul>
+
+<h4>
+    Enlaces de consulta
+</h4>
+<p> <a href="https://www.pokemon.com/el/pokedex/snorlax" target="_blank"> Snorlax </a> </p>
+
+</body>
+</html>
+
+
